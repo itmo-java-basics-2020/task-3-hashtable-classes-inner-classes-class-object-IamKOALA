@@ -12,7 +12,7 @@ import java.util.function.Supplier;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class HashTableTest {
+ public class HashTableTest {
     private static final int NUMBER_OF_INVOCATIONS = 1_000_000;
 
     private final Random random = new Random();
